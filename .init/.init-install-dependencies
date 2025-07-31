@@ -1,0 +1,4 @@
+{
+    "command": "cd db_visualizer && npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/tic-tac-toe-game-platform-142495-142529/tic_tac_toe_database"
+}
